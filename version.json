@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "url": "https://raw.githubusercontent.com/Sebastian-xD/sms-telegram/main/SMS-Telegram.apk",
-  "notes": "Заголовок по центру, нова стрілка"
+  "notes": "Заголовок тепер справді по центру"
 }
