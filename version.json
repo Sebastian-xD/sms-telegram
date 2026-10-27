@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "url": "https://raw.githubusercontent.com/Sebastian-xD/sms-telegram/main/SMS-Telegram.apk",
-  "notes": "Новий сучасний інтерфейс"
+  "notes": "Прибрано дубльований заголовок угорі"
 }
