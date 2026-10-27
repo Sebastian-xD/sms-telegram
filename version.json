@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "url": "https://raw.githubusercontent.com/Sebastian-xD/sms-telegram/main/SMS-Telegram.apk",
-  "notes": "Прибрано дубльований заголовок угорі"
+  "notes": "Заголовок по центру, нова стрілка"
 }
