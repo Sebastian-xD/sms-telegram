@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
+  "versionCode": 12,
+  "versionName": "2.1",
   "url": "https://raw.githubusercontent.com/Sebastian-xD/sms-telegram/main/SMS-Telegram.apk",
-  "notes": "Заголовок тепер справді по центру"
+  "notes": "Щит від входу в Telegram: код входу не пересилається, пересилання авто-зупиняється"
 }
